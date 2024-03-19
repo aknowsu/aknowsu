@@ -10,7 +10,7 @@
 
 # HI code enjoyers !!!
 
-I’m @iknowsu,I’m interested in AI, security and I love to discover new things, I’m currently learning C
+I’m @aknowsu,I’m interested in AI, security and I love to discover new things, I’m currently learning C
 </div>
 </body>
 </html>
